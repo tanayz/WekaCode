@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="WekaCode/src"/>
+	<classpathentry kind="lib" path="WekaCode/bin/WekaCode/LibSVM.jar"/>
+	<classpathentry kind="lib" path="WekaCode/bin/WekaCode/milk.jar"/>
+	<classpathentry kind="lib" path="WekaCode/bin/WekaCode/simpleCART.jar"/>
+	<classpathentry kind="lib" path="WekaCode/bin/WekaCode/weka.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="WekaCode/src"/>
+</classpath>
